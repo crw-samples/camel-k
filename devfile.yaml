@@ -1,0 +1,10 @@
+schemaVersion: 2.1.0
+metadata:
+  name: apache-camel-k
+attributes:
+  che-theia.eclipse.org/sidecar-policy: mergeImage
+components:
+  - name: tools
+    container:
+      image: registry.redhat.io/codeready-workspaces/plugin-java11-rhel8
+      memoryLimit: 1Gi
