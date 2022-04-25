@@ -6,5 +6,5 @@ attributes:
 components:
   - name: tools
     container:
-      image: registry.redhat.io/codeready-workspaces/plugin-java11-rhel8
+      image: quay.io/devspaces/udi-rhel8:3.1
       memoryLimit: 1Gi
