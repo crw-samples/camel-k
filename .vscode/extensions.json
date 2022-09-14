@@ -4,6 +4,8 @@
     "recommendations": [
       "redhat.vscode-xml",  
       "redhat.vscode-apache-camel",
-      "redhat.vscode-camelk"    
+      "redhat.vscode-camelk",
+      "ms-kubernetes-tools.vscode-kubernetes-tools",
+      "redhat.vscode-yaml"
     ]
   }
